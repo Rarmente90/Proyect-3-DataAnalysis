@@ -32,15 +32,15 @@ The project includes 7 different visualizations. Each graph focuses on a unique 
 
 
 
-- **Average Rating by Day:** Shows how ratings vary over day for each course.
+- **Average Rating by Day:** Shows how ratings vary over days.
   
   ![Average Rating by Day](/screenshots/1-av-rat-day.png)
   
-- **Average Rating by Week:** Shows how ratings vary over week for each course.
+- **Average Rating by Week:** Shows how ratings vary over weeks.
 
   ![Average Rating by Week](/screenshots/2-av-rat-week.png)
   
-- **Average Rating by Month:** Shows how ratings vary over months for each course.
+- **Average Rating by Month:** Shows how ratings vary over months.
 
   ![Average Rating by Month](/screenshots/3-av-rat-month.png)
   
