@@ -24,7 +24,6 @@ JustPy and HighCharts for interactive and web-based visualization. The dataset u
 ## Explanation
 - **Data Loading and Aggregation:** The data is read from reviews.csv, and then grouped by course name, counting the total ratings per course.
 - **Chart Definition:** I used the website [Highcharts](https://www.highcharts.com/?_gl=1*1gelqi3*_up*MQ..&gclid=Cj0KCQiArby5BhCDARIsAIJvjIQ-XrxE4-whwvzKVOGNa_-epyAjpwLWPbWznfXDfcNFmHO_jtTFDEkaApqbEALw_wcB) to find a awesome charts to include.
-- **Tooltip and Data Labels:** Tooltips show percentage values, and data labels display percentages only for segments greater than 10%.
 - **Data Insertion:** The hc_data array is populated with the course names and their respective rating counts. This data is then assigned to the chart options for rendering.
 - **Web Interface:** The function app() creates a Quasar-based web page using JustPy, where the chart and text elements are embedded.
 
